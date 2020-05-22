@@ -1,2 +1,2 @@
-# ImageProcessing-Course-Projects
-This repo includes the basic homeworks that has been developed by me in my Intro To Image Understanding Course.
+# Image Processing with C++
+This repo includes a basic library  that has been developed by me in my Intro To Image Understanding Course.
